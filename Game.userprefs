@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Bonus_Controller.js">
+    <Files>
+      <File FileName="Assets\Scripts\Health_Generator.js" Line="18" Column="38" />
+      <File FileName="Assets\Scripts\Bonus_Generator.js" Line="18" Column="39" />
+      <File FileName="Assets\Scripts\Bonus_Generator2.js" Line="18" Column="38" />
+      <File FileName="Assets\Scripts\Bonus_Controller.js" Line="11" Column="22" />
+      <File FileName="Assets\Scripts\Player_Controller2.js" Line="78" Column="16" />
+      <File FileName="Assets\Scripts\Player_Controller3.js" Line="53" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

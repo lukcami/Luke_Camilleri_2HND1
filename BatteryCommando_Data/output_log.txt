@@ -1,0 +1,55 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdx32.dll 8.15.10.2622]
+    Renderer: Intel(R) HD Graphics
+    Vendor:   Intel
+    VRAM:     880 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 68)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\L-Ingliz\Desktop\Game\BatteryCommando_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\L-Ingliz\Desktop\Game\BatteryCommando_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\L-Ingliz\Desktop\Game\BatteryCommando_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\L-Ingliz\Desktop\Game\BatteryCommando_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\L-Ingliz\Desktop\Game\BatteryCommando_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\L-Ingliz\Desktop\Game\BatteryCommando_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\L-Ingliz\Desktop\Game\BatteryCommando_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\L-Ingliz\Desktop\Game\BatteryCommando_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.171 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.864864 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 249.
+Total: 10.149537 ms (FindLiveObjects: 0.040634 ms CreateObjectMapping: 0.033362 ms MarkObjects: 0.427299 ms  DeleteObjects: 5.769183 ms)
+
+Platform assembly: C:\Users\L-Ingliz\Desktop\Game\BatteryCommando_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 3.624987 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 6.563900 ms (FindLiveObjects: 0.031224 ms CreateObjectMapping: 0.041489 ms MarkObjects: 0.472210 ms  DeleteObjects: 3.254148 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Background_Controller.OnBecameInvisible () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 50.323811 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 6.697779 ms (FindLiveObjects: 0.040634 ms CreateObjectMapping: 0.035929 ms MarkObjects: 0.616354 ms  DeleteObjects: 3.575799 ms)
+
+UnloadTime: 2.218193 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 89 unused Assets to reduce memory usage. Loaded Objects now: 158.
+Total: 7.298308 ms (FindLiveObjects: 0.024808 ms CreateObjectMapping: 0.035073 ms MarkObjects: 0.400352 ms  DeleteObjects: 4.075812 ms)
+
