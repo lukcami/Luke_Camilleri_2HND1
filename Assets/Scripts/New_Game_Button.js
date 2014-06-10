@@ -1,5 +1,5 @@
 ﻿#pragma strict
-
+//new game
 function OnMouseDown()
 {
 	
