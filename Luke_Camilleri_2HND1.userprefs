@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Bonus_Generator.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Health_Generator.js">
     <Files>
-      <File FileName="Assets\Scripts\Bonus_Generator.js" Line="2" Column="12" />
+      <File FileName="Assets\Scripts\Health_Generator.js" Line="2" Column="11" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

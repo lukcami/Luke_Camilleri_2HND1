@@ -1,5 +1,5 @@
 ﻿#pragma strict
-
+//variable
 var health:Rigidbody;
 
 function createHEALTH()
