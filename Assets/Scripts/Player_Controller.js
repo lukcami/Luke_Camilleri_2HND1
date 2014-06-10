@@ -58,7 +58,7 @@ function Start () {
 
 function Update () {
  	var xborder:int;
- 
+ //functional screen boundaries
 	if (transform.position.x < -5)
 	{
 		transform.position.x = 0;
