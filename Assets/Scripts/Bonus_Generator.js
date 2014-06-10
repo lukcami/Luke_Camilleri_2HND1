@@ -1,5 +1,5 @@
 ﻿#pragma strict
-
+//variables
 var bonus:Rigidbody;
 
 function createBONUS()
