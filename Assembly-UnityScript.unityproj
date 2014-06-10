@@ -75,8 +75,6 @@
      <Compile Include="Assets\Scripts\Shoot_Controller.js" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{262597D0-13F3-DF2B-2A97-5FF1F48A13C2}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
       <Project>{9726796A-E44E-132D-77C5-5D2B53040667}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
   </ItemGroup>
