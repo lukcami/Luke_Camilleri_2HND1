@@ -1,5 +1,5 @@
 ﻿#pragma strict
-
+//variables of the enemies' laser
 var speedOfLaser:int;
 
 function OnTriggerEnter(other:Collider)
