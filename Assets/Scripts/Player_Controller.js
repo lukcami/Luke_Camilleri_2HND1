@@ -3,7 +3,7 @@
 private var anim:Animator;
 
 var style:GUISkin;
-
+//variabales
 static var score:int;
 static var lives:int;
 
