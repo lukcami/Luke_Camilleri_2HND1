@@ -1,5 +1,5 @@
 ﻿#pragma strict
-
+//variables
 var speedOfLaser:int;
 
 function Start () {
