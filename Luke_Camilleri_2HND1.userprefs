@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Background_Controller.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player_Controller.js">
     <Files>
-      <File FileName="Assets\Scripts\Background_Controller.js" Line="2" Column="24" />
+      <File FileName="Assets\Scripts\Player_Controller.js" Line="20" Column="19" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -17,7 +17,7 @@ function OnGUI()
 	
 	GUI.Label(Rect(110,5,100,50),"Lives: " +lives);
 }
-
+//lives and scores
 function OnTriggerEnter(other:Collider)
 {
 	if(other.gameObject.tag=="enemy_1" || other.gameObject.tag == "enemy_2" || other.gameObject.tag == "enemy_3")
